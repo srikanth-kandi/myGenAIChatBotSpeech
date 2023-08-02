@@ -320,3 +320,142 @@
         return response
     ```
 </details>
+
+<!--------Publish your code to Hugging Face------------>
+
+### Publish your code to Hugging Face
+
+<details>
+<summary><b>Login to Hugging Face from Google Colab</b></summary>
+
+- Create a Hugging Face token and Copy
+
+    - Login to Hugging Face <a href="https://huggingface.co/" target="_blank">https://huggingface.co/</a>
+
+    - Open <a href="https://huggingface.co/settings/tokens" target="_blank">https://huggingface.co/settings/tokens</a>
+
+    - Click on `New token`
+
+    - Add a Name for the Token
+
+    - Choose `write` Role for the Token
+
+    - Click on `Generate a token`
+
+    - Copy the Token
+
+- Click on Play button to enter Hugging Face Token
+
+    ![Google Colab Hugging Face Token](./images/google-colab-hugging-face-token.png)
+
+- Now paste the Hugging Face token in the textbox provided and click on `Login`
+
+    ![Google Colab Hugging Face Token Login](./images/google-colab-hugging-face-token-login.png)
+</details>
+
+<!-----Create HuggingFace API to push code from Google Colab----->
+
+<details>
+<summary><b>Create Hugging Face API to push code from Google Colab</b></summary>
+
+- Click on Play button to create API
+
+    ![Google Colab Hugging Face API](./images/google-colab-hugging-face-api.png)
+</details>
+
+<!-------Adding Hugging Face Repo ID------->
+
+<details>
+<summary><b>Adding Hugging Face Repository ID</b></summary>
+
+- Copy Hugging Face Repository ID by opening the Hugging Face Repo Created
+
+    ![Hugging Face Repo ID](./images/hugging-face-repo-id.png)
+
+- Replace your Repo ID
+
+    ![Replace Hugging Face Repo ID](./images/replace-hugging-face-repo-id.png)
+
+- Click on Play button to assign Hugging Face Repo ID
+
+    ![Replace Hugging Face Repo ID Play Button](./images/replace-hugging-face-repo-id-play.png)
+</details>
+
+<!----Add OPENAI_API_KEY, PLAY_HT_API_KEY, PLAY_HT_USER_ID and PLAY_HT_VOICE_ID in Hugging Face secrets----->
+
+<details>
+<summary><b>Adding APIs to Hugging Face secrets</b></summary>
+
+- Click on Settings Button
+
+    ![Hugging Face Settings Button](./images/hugging-face-settings-button.png)
+
+- Go to `Variables and secrets` section
+
+    ![Hugging Face Variables and secrets section](./images/hugging-face-variables-and-secrets-section.png)
+
+- Click on `New secret`
+
+    ![Hugging Face New secret](./images/hugging-face-new-secret.png)
+
+- Enter Name as `OPENAI_API_KEY` and Value as your OpenAI API Key
+
+    ![Hugging Face Name and Value](./images/hugging-face-name-and-value.png)
+
+- By the similar process create secrets for `PLAY_HT_API_KEY`, `PLAY_HT_USER_ID` and `PLAY_HT_VOICE_ID`
+</details>
+
+<!-----Load files App and Requirements file----->
+
+<details>
+<summary><b>Load App and Requirements file</b></summary>
+
+- Click on Play button to download files
+
+    ![Google Colab Download Files](./images/google-colab-download-files.png)
+
+- You can check downloaded files in the left side panel
+
+    ![Google Colab Downloaded Files](./images/google-colab-downloaded-files.png)
+
+- You can edit the downloaded files
+
+    - Click on the `app.py` file
+
+        ![Google Colab Edit app.py](./images/google-colab-edit-app-py.png)
+
+    - The file will be opened and you can edit the `template` section by referring to [Prompts and Examples](./prompts-and-examples.md)
+
+        ![Google Colab Modify app.py](./images/google-colab-modify-app-py.png)
+
+    - After editing the file don't forget to save, by pressing `⌃ + S` or `⌘ + S`
+</details>
+
+
+<!----Push your code to Hugging Face---->
+
+<details>
+<summary><b>Push your code to Hugging Face</b></summary>
+
+- Click on Play button
+
+    ![Hugging Face Push Code](./images/hugging-face-push-code.png)
+
+- Now in your space, you should see it is `Building` status
+
+    ![Hugging Face Building](./images/hugging-face-building.png)
+
+- On Succesful Build, you should see `Running` status
+
+    ![Hugging Face Running](./images/hugging-face-running.png)
+
+- If the Build fails you will see a `Runtime error` with some errors below
+
+    ![Hugging Face Runtime Error](./images/hugging-face-runtime-error.png)
+
+- Click on Logs to check more details about the `error`
+</details>
+
+---
+
+<h3 align = 'center'>Show some ❤️ by starring ⭐ this repository!</h3>
