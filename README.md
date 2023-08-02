@@ -1,4 +1,4 @@
-# Generative AI with Speech output
+# ChatBot with Open AI, LangChain and PlayHT
 
 [Handbook](https://inky-ironclad-8d2.notion.site/Generative-AI-Workshop-bfb0123ccf6945ebbfa5bf3328917423), [This Handbook](https://inky-ironclad-8d2.notion.site/ChatBot-with-Open-AI-LangChain-and-PlayHT-b518566d30194da093bd1b21f82085a4)
 
@@ -92,6 +92,9 @@
         ![Google Colab Save a copy in Drive](./images/google-colab-save-a-copy-in-drive.png)
 
     - If you are not logged in to your Google Account, please log into it
+
+    - Once you are successfully logged in a new Google Colab Notebook with the given code will be opened
+</details>
 
     - Once you are successfully logged in a new Google Colab Notebook with the given code will be opened
 </details>
