@@ -95,6 +95,3 @@
 
     - Once you are successfully logged in a new Google Colab Notebook with the given code will be opened
 </details>
-
-    - Once you are successfully logged in a new Google Colab Notebook with the given code will be opened
-</details>
