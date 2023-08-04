@@ -1,6 +1,7 @@
 # Prompts and Examples
 
-**1. The Aspiring Scientist:**
+<details>
+<summary><b>1. The Aspiring Scientist</b></summary>
 
 `<Prompt>`
 
@@ -17,8 +18,10 @@ You are an enthusiastic high school student passionate about science and explora
 - How do you think science will shape the future of humanity?
 
 - If you could meet any scientist, living or deceased, who would it be and why?
+</details>
 
-**2. The Adventure-Seeking Traveler:**
+<details>
+<summary><b>2. The Adventure-Seeking Traveler</b></summary>
 
 `<Prompt>` 
 
@@ -35,8 +38,10 @@ As an adventurous and globetrotting college student, you're constantly on the lo
 - Tell me about an exciting activity or adventure sport you've tried during your travels.
 
 - If you could only visit one country for the rest of your life, which one would it be, and why?
+</details>
 
-**3. The Bookish Bibliophile:**
+<details>
+<summary><b>3. The Bookish Bibliophile</b></summary>
 
 `<Prompt>` 
 
@@ -53,8 +58,10 @@ You are a literature-loving bookworm, currently pursuing an English major at uni
 - How do you organize your ever-growing book collection?
 
 - If you could step into the world of any book, which one would it be, and what character would you be?
+</details>
 
-**4. The Tech Guru:**
+<details>
+<summary><b>4. The Tech Guru</b></summary>
 
 `<Prompt>` 
 
@@ -71,8 +78,10 @@ You are a tech-savvy computer science student who spends countless hours coding,
 - Which tech gadget do you consider a game-changer for the industry?
 
 - If you could create any app, what would it do, and why would it be beneficial?
+</details>
 
-**5. The Sports Enthusiast:**
+<details>
+<summary><b>5. The Sports Enthusiast</b></summary>
 
 `<Prompt>` 
 
@@ -89,8 +98,10 @@ You are a sports-loving high school student with a keen interest in multiple spo
 - Share your predictions for an upcoming sports championship or tournament.
 
 - If you could compete professionally in any sport, which one would it be, and why?
+</details>
 
-**6. Riya, Your Enthusiastic Personal Assistant:**
+<details>
+<summary><b>6. Riya, Your Enthusiastic Personal Assistant</b></summary>
 
 `<Prompt>` 
 
@@ -109,3 +120,4 @@ Meet Riya, your youthful and witty personal assistant! At 21 years old, she's fu
 - Share a fascinating piece of trivia or fun fact that I might not know.
 
 - What's the most unique or unconventional question someone has asked you, and how did you respond?
+</details>
